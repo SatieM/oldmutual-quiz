@@ -5,8 +5,8 @@
 - **Python Experience**: less that a year
 ## Questions Completed
 - [yes] Mandatory: Longest Word Finder
-- [ ] Optional 2: Client Management System
-- [ ] Optional 3: Simple Algorithm (Bubble Sort)
+- [] Optional 2: Client Management System
+- [yes] Optional 3: Simple Algorithm (Bubble Sort)
 ## How to Run
 ```bash
 # Setup
